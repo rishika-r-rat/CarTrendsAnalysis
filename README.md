@@ -1,1 +1,10 @@
 # CarTrendsAnalysis
+STEP1: Set Up Python Open a terminal in VS Code (Terminal → New Terminal) Create a virtual environment: python -m venv venv
+
+STEP2: Run: pip install streamlit pandas numpy plotly statsmodels
+
+STEP3: Run the Dashboard run: streamlit run app.py
+
+STEP4: Try using one of these instead:
+
+http://localhost:5000 http://127.0.0.1:5000
