@@ -3,7 +3,7 @@ STEP1: Set Up Python Open a terminal in VS Code (Terminal → New Terminal) Crea
 
 STEP2: Run: pip install streamlit pandas numpy plotly statsmodels
 
-STEP3: Run the Dashboard run: streamlit run app.py
+STEP3: Run the Dashboard run: python -m streamlit run app.py
 
 STEP4: Try using one of these instead:
 
